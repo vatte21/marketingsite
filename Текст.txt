@@ -46,4 +46,4 @@ function watch() {
 exports.style = style;
 exports.watch = watch;
 
-d
+d main
